@@ -1,0 +1,3 @@
+Nombre: Oliver
+Ciudad: Queretaro
+Hobby: Python
